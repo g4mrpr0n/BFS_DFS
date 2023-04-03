@@ -122,22 +122,4 @@ int main()
     outputMetrics('2', 'u', 0, 6);
     outputMetrics('2', 'u', 0, 9);
     outputMetrics('2', 'u', 0, 10);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
